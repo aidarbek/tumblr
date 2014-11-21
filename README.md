@@ -2,4 +2,5 @@ tumblr
 ======
 
 Loads tumblr posts by certain tags. Made by me for fun :D
-<a href="http://idarbek.com/tumblr">Demo</a>
+<br>
+<a href="http://idarbek.com/tumblr">Watch demo</a>
